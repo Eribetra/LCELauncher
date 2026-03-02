@@ -1,0 +1,1 @@
+Hello! This is a launcher for Windows builds of Minecraft: Legacy Console Edition.
