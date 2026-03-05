@@ -1,3 +1,7 @@
+03/04/2026
+v0.3.1: After adding support for profiles, a smaller update has just been released. This brings an updated look to the launcher, which more closely resembles the Legacy Launcher. You can also now no longer erroneously resize the window.
+
+03/02/2026
 Hello! This is a launcher for Windows builds of Minecraft: Legacy Console Edition.
 
 Features:
