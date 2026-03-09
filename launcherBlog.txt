@@ -1,3 +1,8 @@
+03/09/2026
+v0.3.3: A few hotfixes for this build! You can now open profiles located anywhere, and not just inside your LCELauncher Profiles folder. You can also no longer erroneously *maximize* the window (I forgot to disable that earlier...)
+servers.txt is deprecated for the MinecraftConsoles fork, as the game itself lets you manage servers... but the button to edit it will still be kept up for now, if you are using other forks that support it.
+Finally, an update checker is included in this build, with a button to go to the newest release's download page!
+
 03/05/2026
 v0.3.2: You can now edit servers.txt (for the MinecraftConsoles build) directly from LCELauncher! This helps a ton with quickly managing LCE servers, now that this functionality is implemented. This won't do anything for builds that don't support servers.txt (although nothing bad will happen if you do set one up).
 
